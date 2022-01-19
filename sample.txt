@@ -1,0 +1,2 @@
+this is the first example of write opration 
+this is updated text
